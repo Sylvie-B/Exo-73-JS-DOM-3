@@ -7,7 +7,7 @@ let wrongAnswer2 = answers[2];
 
 
 
-
-
-
+rightAnswer.className = "right-answer";
+wrongAnswer1.className = "wrong-answer";
+wrongAnswer2.className = "wrong-answer";
 
